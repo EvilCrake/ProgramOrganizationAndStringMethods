@@ -1,0 +1,7 @@
+my_string = input('Enter a string: ')
+len(str(my_string))
+print(str(my_string).upper())
+print(str(my_string).lower())
+print(str(my_string).replace(' ', ''))
+print(str(my_string[:1:]))
+print(str(my_string[-1::1000]))
